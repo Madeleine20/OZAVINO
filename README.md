@@ -1,4 +1,4 @@
-# OZAVINO - Bibliothèque Universelle (Projet SWE 324)
+# OZAVINO - Bibliothèque Universelle 
 
 Ozavino est une application de bureau développée en **Java Swing** permettant de gérer et de promouvoir un catalogue de livres issus de la littérature afro-descendante et multiculturelle. L'application intègre une gestion complète de l'expérience utilisateur, du suivi de lecture et de l'internationalisation.
 
